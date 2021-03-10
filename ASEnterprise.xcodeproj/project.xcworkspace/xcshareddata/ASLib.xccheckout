@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21B05381-6543-4E9E-9DFB-8B9FE48C1FAA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ASLib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B9968D74E5169685E19113C45B480FE71C2536BB</key>
+		<string>https://bitbucket.org/theappstudiollc/aslib.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ASLib.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B9968D74E5169685E19113C45B480FE71C2536BB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/theappstudiollc/aslib.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B9968D74E5169685E19113C45B480FE71C2536BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B9968D74E5169685E19113C45B480FE71C2536BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aslib</string>
+		</dict>
+	</array>
+</dict>
+</plist>
