@@ -3,7 +3,7 @@
 //  ASEnterprise
 //
 //  Created by David Mitchell on 10/17/15.
-//  Copyright © 2015 The App Studio LLC. All rights reserved.
+//  Copyright © 2015 The App Studio LLC.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
