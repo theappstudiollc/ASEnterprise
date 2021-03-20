@@ -1,6 +1,6 @@
 # ASEnterprise #
 
-A collection of various useful functions for iOS, macOS, tvOS, and watchOS apps
+A collection of useful functions for iOS, macOS, tvOS, and watchOS apps
 
 I am releasing the source code to ASEnterprise, an Objective C Apple framework I have been developing since 2013. It was used in several commercial apps, and while not very valuable now, I hope the code and project serves as a useful reference on Objective C code suitable for multi-platform frameworks, importation within Swift, as well as how to build and distribute via Swift Packages and via CocoaPods.
 
